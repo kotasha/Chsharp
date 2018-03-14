@@ -1,0 +1,4 @@
+D:\Sample Projects\Web Apps\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Sample Projects\Web Apps\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Sample Projects\Web Apps\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Sample Projects\Web Apps\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,8 @@
+D:\Sample Projects\Console Apps\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.exe.config
+D:\Sample Projects\Console Apps\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.csprojResolveAssemblyReference.cache
+D:\Sample Projects\Console Apps\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.exe
+D:\Sample Projects\Console Apps\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.pdb
+D:\Sample Projects\Console Apps\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+D:\Sample Projects\Console Apps\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
+D:\Sample Projects\Console Apps\TestConsoleApp\TestConsoleApp\bin\Debug\EntityFramework.dll
+D:\Sample Projects\Console Apps\TestConsoleApp\TestConsoleApp\bin\Debug\EntityFramework.xml

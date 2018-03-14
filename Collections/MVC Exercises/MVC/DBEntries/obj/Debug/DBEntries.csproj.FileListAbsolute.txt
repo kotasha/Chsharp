@@ -1,0 +1,7 @@
+C:\Mvc4\DBEntries\obj\Debug\ResolveAssemblyReference.cache
+C:\Mvc4\DBEntries\bin\Debug\DBEntries.dll
+C:\Mvc4\DBEntries\bin\Debug\DBEntries.pdb
+C:\Mvc4\DBEntries\obj\Debug\DBEntries.dll
+C:\Mvc4\DBEntries\obj\Debug\DBEntries.pdb
+C:\Mvc4\DBEntries\bin\Debug\BusinessLayer.dll
+C:\Mvc4\DBEntries\bin\Debug\BusinessLayer.pdb

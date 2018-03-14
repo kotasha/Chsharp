@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e95e8521-0ed8-48d8-bb6a-e7eb0aa90d3c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:9090/Ganesha?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Ganesha.xsd" MetadataType="Schema" ID="0282455a-43ff-42a6-8d41-8b5ed7739e2e" SourceId="1" SourceUrl="http://localhost:9090/Ganesha?xsd=xsd1" />
+    <MetadataFile FileName="Ganesha1.xsd" MetadataType="Schema" ID="a5153138-3e75-4b6f-a276-3a27d7ce7289" SourceId="1" SourceUrl="http://localhost:9090/Ganesha?xsd=xsd0" />
+    <MetadataFile FileName="CalcAgentInterestSevice.wsdl" MetadataType="Wsdl" ID="bed201e9-bcce-4f7c-aeee-2f0e17222f3f" SourceId="1" SourceUrl="http://localhost:9090/Ganesha?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

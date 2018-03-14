@@ -1,0 +1,8 @@
+D:\Sample Projects\Windows Apps\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Sample Projects\Windows Apps\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Sample Projects\Windows Apps\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\TFSTreeView.Properties.Resources.resources
+D:\Sample Projects\Windows Apps\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\TFSTreeView.csproj.GenerateResource.Cache
+D:\Sample Projects\Windows Apps\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Sample Projects\Windows Apps\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Sample Projects\Windows Apps\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\TFSTreeView.Form1.resources
+D:\Sample Projects\Windows Apps\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\TFSTreeView.csprojResolveAssemblyReference.cache

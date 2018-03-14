@@ -1,0 +1,15 @@
+C:\Mvc4\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe.config
+C:\Mvc4\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe
+C:\Mvc4\TestConsoleApplication\bin\Debug\TestConsoleApplication.pdb
+C:\Mvc4\TestConsoleApplication\bin\Debug\DBEntries.dll
+C:\Mvc4\TestConsoleApplication\bin\Debug\EntityFramework.dll
+C:\Mvc4\TestConsoleApplication\bin\Debug\DBEntries.pdb
+C:\Mvc4\TestConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Mvc4\TestConsoleApplication\obj\x86\Debug\TestConsoleApplication.exe
+C:\Mvc4\TestConsoleApplication\obj\x86\Debug\TestConsoleApplication.pdb
+D:\Sample Projects\MVC Exercises\MVC\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe.config
+D:\Sample Projects\MVC Exercises\MVC\TestConsoleApplication\obj\x86\Debug\TestConsoleApplication.exe
+D:\Sample Projects\MVC Exercises\MVC\TestConsoleApplication\obj\x86\Debug\TestConsoleApplication.pdb
+D:\Personal\SelfPractice\ShashankDewa\MVC Exercises\MVC\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe.config
+D:\Personal\SelfPractice\ShashankDewa\MVC Exercises\MVC\TestConsoleApplication\obj\x86\Debug\TestConsoleApplication.exe
+D:\Personal\SelfPractice\ShashankDewa\MVC Exercises\MVC\TestConsoleApplication\obj\x86\Debug\TestConsoleApplication.pdb

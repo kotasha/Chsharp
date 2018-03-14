@@ -1,0 +1,7 @@
+D:\Personal\SelfPractice\WCFwebHost\WCFwebHost\obj\Debug\WCFwebHost.csprojResolveAssemblyReference.cache
+D:\Personal\SelfPractice\WCFwebHost\WCFwebHost\bin\WCFwebHost.dll
+D:\Personal\SelfPractice\WCFwebHost\WCFwebHost\bin\WCFwebHost.pdb
+D:\Personal\SelfPractice\WCFwebHost\WCFwebHost\bin\CalcInterest.dll
+D:\Personal\SelfPractice\WCFwebHost\WCFwebHost\bin\CalcInterest.pdb
+D:\Personal\SelfPractice\WCFwebHost\WCFwebHost\obj\Debug\WCFwebHost.dll
+D:\Personal\SelfPractice\WCFwebHost\WCFwebHost\obj\Debug\WCFwebHost.pdb

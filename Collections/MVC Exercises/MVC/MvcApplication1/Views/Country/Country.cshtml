@@ -1,0 +1,40 @@
+﻿@model IEnumerable<MvcApplication1.Country>
+
+@{
+    ViewBag.Title = "Country";
+    
+}
+
+<h2>Country</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CountryCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CountryName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CountryCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CountryName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

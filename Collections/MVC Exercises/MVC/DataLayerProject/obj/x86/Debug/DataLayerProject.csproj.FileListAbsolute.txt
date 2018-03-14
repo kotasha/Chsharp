@@ -1,0 +1,5 @@
+C:\Mvc4\DataLayerProject\bin\Debug\DataLayerProject.dll
+C:\Mvc4\DataLayerProject\bin\Debug\DataLayerProject.pdb
+C:\Mvc4\DataLayerProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Mvc4\DataLayerProject\obj\x86\Debug\DataLayerProject.dll
+C:\Mvc4\DataLayerProject\obj\x86\Debug\DataLayerProject.pdb

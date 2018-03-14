@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="73de4cfd-952d-477e-a5de-14aa2e83b862" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:9015/RealService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="RealService.xsd" MetadataType="Schema" ID="9d89e834-2a42-4146-981c-67cd4d656de1" SourceId="1" SourceUrl="http://localhost:9015/RealService.svc?xsd=xsd2" />
+    <MetadataFile FileName="RealService.disco" MetadataType="Disco" ID="0b0ec4d1-f8b3-4ec4-bea2-648e4bfa2ed1" SourceId="1" SourceUrl="http://localhost:9015/RealService.svc?disco" />
+    <MetadataFile FileName="RealService1.xsd" MetadataType="Schema" ID="66f10bcd-08f4-464a-b974-b3f65b41028f" SourceId="1" SourceUrl="http://localhost:9015/RealService.svc?xsd=xsd1" />
+    <MetadataFile FileName="RealService2.xsd" MetadataType="Schema" ID="7ed9b473-e389-4f9a-b34d-4c25faf9e2b9" SourceId="1" SourceUrl="http://localhost:9015/RealService.svc?xsd=xsd0" />
+    <MetadataFile FileName="Test2.wsdl" MetadataType="Wsdl" ID="b58158a6-b9c6-414f-b7bb-fade4487c741" SourceId="1" SourceUrl="http://localhost:9015/RealService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

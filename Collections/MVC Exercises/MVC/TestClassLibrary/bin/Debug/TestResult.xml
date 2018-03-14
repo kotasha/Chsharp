@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Mvc4\TestClassLibrary\bin\Debug\TestClassLibrary.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-06-20" time="18:08:33">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.3623" os-version="Microsoft Windows NT 5.1.2600 Service Pack 3" platform="Win32NT" cwd="C:\Mvc4\TestClassLibrary\bin\Debug" machine-name="TAHYR-0145186-L" user="u0145186" user-domain="TLR" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Mvc4\TestClassLibrary\bin\Debug\TestClassLibrary.dll" executed="True" result="Success" success="True" time="0.000" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TestClassLibrary" executed="True" result="Success" success="True" time="0.000" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="TestingClass" executed="True" result="Success" success="True" time="0.000" asserts="0">
+            <results>
+              <test-case name="TestClassLibrary.TestingClass.Test" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,5 @@
+C:\Mvc4\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Mvc4\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Mvc4\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Mvc4\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Mvc4\BusinessLayer\obj\Debug\BusinessLayer.pdb

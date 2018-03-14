@@ -1,0 +1,8 @@
+D:\Personal\SelfPractice\WCFClient\WCFClient\obj\x86\Debug\WCFClient.Form1.resources
+D:\Personal\SelfPractice\WCFClient\WCFClient\obj\x86\Debug\WCFClient.Properties.Resources.resources
+D:\Personal\SelfPractice\WCFClient\WCFClient\obj\x86\Debug\WCFClient.csproj.GenerateResource.Cache
+D:\Personal\SelfPractice\WCFClient\WCFClient\bin\Debug\WCFClient.exe.config
+D:\Personal\SelfPractice\WCFClient\WCFClient\bin\Debug\WCFClient.exe
+D:\Personal\SelfPractice\WCFClient\WCFClient\bin\Debug\WCFClient.pdb
+D:\Personal\SelfPractice\WCFClient\WCFClient\obj\x86\Debug\WCFClient.exe
+D:\Personal\SelfPractice\WCFClient\WCFClient\obj\x86\Debug\WCFClient.pdb

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b112934f-4556-4909-adf8-55862bae123d" name="U0135363@TAHYS-0135363-L 2013-05-27 19:34:15" runUser="TLR\U0135363" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="d60de5da-4308-4a9c-be36-88c4588c9c3a">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="U0135363_TAHYS-0135363-L 2013-05-27 19_34_15">
+      <DeploymentItem filename="D:\Sample Projects\Web Apps\WebService1\WebService1\bin\WebService1.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-05-27T19:34:15.3073732+05:30" queuing="2013-05-27T19:34:16.5955020+05:30" start="2013-05-27T19:34:16.7635188+05:30" finish="2013-05-27T19:36:38.6317042+05:30" />
+  <ResultSummary outcome="Error">
+    <Counters total="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="1" notExecuted="1" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="TAHYS-0135363-L" outcome="Error" timestamp="2013-05-27T19:36:38.6307041+05:30">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="d:\sample projects\web apps\webservice1\testproject1\bin\debug\testproject1.dll" id="59863143-3238-122e-4d8a-637b491cc755">
+      <Execution id="52108a99-d256-4e61-ae9f-c1b3bc9541b4" />
+      <TestMethod codeBase="D:/Sample Projects/Web Apps/WebService1/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="TestMethod2" storage="d:\sample projects\web apps\webservice1\testproject1\bin\debug\testproject1.dll" id="9381223e-8095-9777-a0c7-26043045171c">
+      <Execution id="fabb3004-ac91-4780-9cc4-c4f3bae7aa4f" />
+      <TestMethod codeBase="D:/Sample Projects/Web Apps/WebService1/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="59863143-3238-122e-4d8a-637b491cc755" executionId="52108a99-d256-4e61-ae9f-c1b3bc9541b4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9381223e-8095-9777-a0c7-26043045171c" executionId="fabb3004-ac91-4780-9cc4-c4f3bae7aa4f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="52108a99-d256-4e61-ae9f-c1b3bc9541b4" testId="59863143-3238-122e-4d8a-637b491cc755" testName="TestMethod1" computerName="TAHYS-0135363-L" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="52108a99-d256-4e61-ae9f-c1b3bc9541b4">
+    </UnitTestResult>
+    <UnitTestResult executionId="fabb3004-ac91-4780-9cc4-c4f3bae7aa4f" testId="9381223e-8095-9777-a0c7-26043045171c" testName="TestMethod2" computerName="TAHYS-0135363-L" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotRunnable" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fabb3004-ac91-4780-9cc4-c4f3bae7aa4f">
+      <Output>
+        <ErrorInfo>
+          <Message>UTA007: Method TestMethod2 defined in class TestProject1.UnitTest1 does not have correct signature. Test method marked with the [TestMethod] attribute must be non-static, public, does not return a value and should not take any parameter. for example: public void Test.Class1.Test().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

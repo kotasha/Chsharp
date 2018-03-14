@@ -1,0 +1,5 @@
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\TestService\obj\Debug\TestService.csprojResolveAssemblyReference.cache
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\TestService\bin\Debug\TestService.dll
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\TestService\bin\Debug\TestService.pdb
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\TestService\obj\Debug\TestService.dll
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\TestService\obj\Debug\TestService.pdb

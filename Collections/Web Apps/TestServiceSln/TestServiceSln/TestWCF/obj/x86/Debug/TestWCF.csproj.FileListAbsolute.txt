@@ -1,0 +1,5 @@
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\TestWCF\bin\Debug\TestWCF.exe.config
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\TestWCF\bin\Debug\TestWCF.exe
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\TestWCF\bin\Debug\TestWCF.pdb
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\TestWCF\obj\x86\Debug\TestWCF.exe
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\TestWCF\obj\x86\Debug\TestWCF.pdb

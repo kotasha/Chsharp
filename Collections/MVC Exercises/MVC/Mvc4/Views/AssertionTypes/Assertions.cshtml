@@ -1,0 +1,46 @@
+﻿@model IEnumerable<DBEntries.AssertionTypes>
+@{
+    ViewBag.Title = "Assertions";
+}
+<h2>
+    Assertions</h2>
+<div>
+    <table border="1" style="border-color: Black">
+        <thead>
+            <tr>
+                <th>
+                    Description
+                </th>
+                <th>
+                    DisplayCode
+                </th>
+                <th>
+                    TypeCode
+                </th>
+                <th>
+                    ID
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in @Model)
+            {
+                <tr style="border-color: Black; border:1px">
+                    <td>@item.txtAssertionTypeDescription
+                    </td>
+                </tr>
+                <tr>
+                    <td>@item.txtAssertionTypeDisplayCode
+                    </td>
+                </tr>
+                <tr>
+                    <td>@item.txtAssertionTypeCode
+                    </td>
+                </tr>
+                <tr>
+                    <td>@item.numAssertionTypeId
+                    </td>
+                </tr>}
+        </tbody>
+    </table>
+</div>

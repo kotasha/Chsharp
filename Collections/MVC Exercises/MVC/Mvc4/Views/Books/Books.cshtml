@@ -1,0 +1,47 @@
+﻿@model IEnumerable<DBEntries.Books>
+@{
+    ViewBag.Title = "Books";
+}
+<h2>
+    Books</h2>
+<div>
+    <table border="1"  style="border-color:Black">
+        <thead>
+            <tr >
+                <th>
+                    BookName
+                </th>
+                <th>
+                    Acronym
+                </th>
+                <th>
+                    BusinessCode
+                </th>
+                <th>
+                    Year
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in @Model)
+            {
+                <tr>
+                    <td>@item.BookName
+                    </td>
+                </tr>
+                <tr>
+                    <td>@item.txtAcronym
+                    </td>
+                </tr>
+                <tr>
+                    <td>@item.txtBusinessCode
+                    </td>
+                </tr>
+                <tr>
+                    <td>@item.txtBookYear
+                    </td>
+                </tr>}
+        </tbody>
+    </table>
+</div>
+</table>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SchoolDBModelStoreContainer" CdmEntityContainer="SchoolDBEntities">
+    <EntitySetMapping Name="Courses">
+      <EntityTypeMapping TypeName="SchoolDBModel.Course">
+        <MappingFragment StoreEntitySet="Course">
+          <ScalarProperty Name="CourseId" ColumnName="CourseId" />
+          <ScalarProperty Name="CourseName" ColumnName="CourseName" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Standards">
+      <EntityTypeMapping TypeName="SchoolDBModel.Standard">
+        <MappingFragment StoreEntitySet="Standard">
+          <ScalarProperty Name="StandardId" ColumnName="StandardId" />
+          <ScalarProperty Name="StandardName" ColumnName="StandardName" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="SchoolDBModel.Student">
+        <MappingFragment StoreEntitySet="Student">
+          <ScalarProperty Name="StudentID" ColumnName="StudentID" />
+          <ScalarProperty Name="StudentName" ColumnName="StudentName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StudentAddresses">
+      <EntityTypeMapping TypeName="SchoolDBModel.StudentAddress">
+        <MappingFragment StoreEntitySet="StudentAddress">
+          <ScalarProperty Name="StudentID" ColumnName="StudentID" />
+          <ScalarProperty Name="Address1" ColumnName="Address1" />
+          <ScalarProperty Name="Address2" ColumnName="Address2" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="State" ColumnName="State" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Teachers">
+      <EntityTypeMapping TypeName="SchoolDBModel.Teacher">
+        <MappingFragment StoreEntitySet="Teacher">
+          <ScalarProperty Name="TeacherId" ColumnName="TeacherId" />
+          <ScalarProperty Name="TeacherName" ColumnName="TeacherName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="View_StudentCourse">
+      <EntityTypeMapping TypeName="SchoolDBModel.View_StudentCourse">
+        <MappingFragment StoreEntitySet="View_StudentCourse">
+          <ScalarProperty Name="StudentID" ColumnName="StudentID" />
+          <ScalarProperty Name="StudentName" ColumnName="StudentName" />
+          <ScalarProperty Name="CourseId" ColumnName="CourseId" />
+          <ScalarProperty Name="CourseName" ColumnName="CourseName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="FK_Course_Teacher" TypeName="SchoolDBModel.FK_Course_Teacher" StoreEntitySet="Course">
+      <EndProperty Name="Teacher">
+        <ScalarProperty Name="TeacherId" ColumnName="TeacherId" />
+      </EndProperty>
+      <EndProperty Name="Course">
+        <ScalarProperty Name="CourseId" ColumnName="CourseId" />
+      </EndProperty>
+      <Condition ColumnName="TeacherId" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_Student_Standard" TypeName="SchoolDBModel.FK_Student_Standard" StoreEntitySet="Student">
+      <EndProperty Name="Standard">
+        <ScalarProperty Name="StandardId" ColumnName="StandardId" />
+      </EndProperty>
+      <EndProperty Name="Student">
+        <ScalarProperty Name="StudentID" ColumnName="StudentID" />
+      </EndProperty>
+      <Condition ColumnName="StandardId" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_Teacher_Standard" TypeName="SchoolDBModel.FK_Teacher_Standard" StoreEntitySet="Teacher">
+      <EndProperty Name="Standard">
+        <ScalarProperty Name="StandardId" ColumnName="StandardId" />
+      </EndProperty>
+      <EndProperty Name="Teacher">
+        <ScalarProperty Name="TeacherId" ColumnName="TeacherId" />
+      </EndProperty>
+      <Condition ColumnName="StandardId" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="StudentCourse" TypeName="SchoolDBModel.StudentCourse" StoreEntitySet="StudentCourse">
+      <EndProperty Name="Course">
+        <ScalarProperty Name="CourseId" ColumnName="CourseId" />
+      </EndProperty>
+      <EndProperty Name="Student">
+        <ScalarProperty Name="StudentID" ColumnName="StudentId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <FunctionImportMapping FunctionImportName="GetCoursesByStudentId" FunctionName="SchoolDBModel.Store.GetCoursesByStudentId" />
+  </EntityContainerMapping>
+</Mapping>

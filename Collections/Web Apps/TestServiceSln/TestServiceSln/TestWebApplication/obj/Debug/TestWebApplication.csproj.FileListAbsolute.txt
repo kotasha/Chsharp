@@ -1,0 +1,4 @@
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\TestWebApplication\bin\TestWebApplication.dll
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\TestWebApplication\bin\TestWebApplication.pdb
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\TestWebApplication\obj\Debug\TestWebApplication.dll
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\TestWebApplication\obj\Debug\TestWebApplication.pdb

@@ -1,0 +1,5 @@
+D:\Sample Projects\Web Apps\MvcApplication1\FirstWebApplication\bin\FirstWebApplication.dll
+D:\Sample Projects\Web Apps\MvcApplication1\FirstWebApplication\bin\FirstWebApplication.pdb
+D:\Sample Projects\Web Apps\MvcApplication1\FirstWebApplication\obj\Debug\FirstWebApplication.dll
+D:\Sample Projects\Web Apps\MvcApplication1\FirstWebApplication\obj\Debug\FirstWebApplication.pdb
+D:\Sample Projects\Web Apps\MvcApplication1\FirstWebApplication\obj\Debug\FirstWebApplication.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\NUnitTestApplication\bin\Debug\NUnitTestApplication.dll
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\NUnitTestApplication\bin\Debug\NUnitTestApplication.pdb
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\NUnitTestApplication\bin\Debug\nunit.framework.dll
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\NUnitTestApplication\bin\Debug\nunit.framework.xml
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\NUnitTestApplication\obj\Debug\NUnitTestApplication.dll
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\NUnitTestApplication\obj\Debug\NUnitTestApplication.pdb
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\NUnitTestApplication\bin\Debug\NUnitTestApplication.dll.config

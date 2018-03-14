@@ -1,0 +1,5 @@
+D:\Sample Projects\Web Apps\MvcApplication1\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe.config
+D:\Sample Projects\Web Apps\MvcApplication1\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe
+D:\Sample Projects\Web Apps\MvcApplication1\TestConsoleApplication\bin\Debug\TestConsoleApplication.pdb
+D:\Sample Projects\Web Apps\MvcApplication1\TestConsoleApplication\obj\x86\Debug\TestConsoleApplication.exe
+D:\Sample Projects\Web Apps\MvcApplication1\TestConsoleApplication\obj\x86\Debug\TestConsoleApplication.pdb

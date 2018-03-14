@@ -1,0 +1,5 @@
+D:\Sample Projects\Web Apps\TestWebService\TestWebService\bin\Debug\TestWebService.exe.config
+D:\Sample Projects\Web Apps\TestWebService\TestWebService\bin\Debug\TestWebService.exe
+D:\Sample Projects\Web Apps\TestWebService\TestWebService\bin\Debug\TestWebService.pdb
+D:\Sample Projects\Web Apps\TestWebService\TestWebService\obj\x86\Debug\TestWebService.exe
+D:\Sample Projects\Web Apps\TestWebService\TestWebService\obj\x86\Debug\TestWebService.pdb

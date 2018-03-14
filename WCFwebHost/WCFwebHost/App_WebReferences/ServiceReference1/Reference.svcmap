@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="2d6a6ecc-1606-4179-9b7a-1196c1bbe458" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://tahyr-0138790-l/wcfService/IAgentIntCalcServiceTest.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="IAgentIntCalcServiceTest.xsd" MetadataType="Schema" ID="56b1b6a4-33ad-419c-a60b-990152be452a" SourceId="1" SourceUrl="http://tahyr-0138790-l/WcfService/IAgentIntCalcServiceTest.svc?xsd=xsd0" />
+    <MetadataFile FileName="IAgentIntCalcServiceTest.wsdl" MetadataType="Wsdl" ID="99510946-f916-40eb-a237-907d5f4d3c21" SourceId="1" SourceUrl="http://tahyr-0138790-l/WcfService/IAgentIntCalcServiceTest.svc?wsdl" />
+    <MetadataFile FileName="IAgentIntCalcServiceTest1.xsd" MetadataType="Schema" ID="2af34e2d-57b6-4adb-99b8-dfc9d1fe2d60" SourceId="1" SourceUrl="http://tahyr-0138790-l/WcfService/IAgentIntCalcServiceTest.svc?xsd=xsd1" />
+    <MetadataFile FileName="IAgentIntCalcServiceTest.disco" MetadataType="Disco" ID="fa2ca165-6e4b-4c62-aa8e-4b2114818cd2" SourceId="1" SourceUrl="http://tahyr-0138790-l/WcfService/IAgentIntCalcServiceTest.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

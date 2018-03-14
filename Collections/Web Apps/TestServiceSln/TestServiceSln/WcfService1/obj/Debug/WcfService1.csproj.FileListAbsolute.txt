@@ -1,0 +1,4 @@
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\WcfService1\bin\WcfService1.dll
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\WcfService1\bin\WcfService1.pdb
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\WcfService1\obj\Debug\WcfService1.dll
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\WcfService1\obj\Debug\WcfService1.pdb

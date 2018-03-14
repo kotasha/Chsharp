@@ -1,0 +1,7 @@
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\UnityFactorySample\bin\Debug\UnityFactorySample.exe
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\UnityFactorySample\bin\Debug\UnityFactorySample.pdb
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\UnityFactorySample\obj\x86\Debug\UnityFactorySample.exe
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\UnityFactorySample\obj\x86\Debug\UnityFactorySample.pdb
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\UnityFactorySample\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\UnityFactorySample\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\UnityFactorySample\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll

@@ -1,0 +1,5 @@
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\abstractSample\bin\Debug\abstractSample.exe.config
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\abstractSample\bin\Debug\abstractSample.exe
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\abstractSample\bin\Debug\abstractSample.pdb
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\abstractSample\obj\x86\Debug\abstractSample.exe
+D:\Sample Projects\Web Apps\TestServiceSln\TestServiceSln\abstractSample\obj\x86\Debug\abstractSample.pdb

@@ -1,0 +1,7 @@
+C:\Mvc4\TestClassLibrary\bin\Debug\TestClassLibrary.dll
+C:\Mvc4\TestClassLibrary\bin\Debug\TestClassLibrary.pdb
+C:\Mvc4\TestClassLibrary\bin\Debug\nunit.framework.dll
+C:\Mvc4\TestClassLibrary\bin\Debug\nunit.framework.xml
+C:\Mvc4\TestClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Mvc4\TestClassLibrary\obj\Debug\TestClassLibrary.dll
+C:\Mvc4\TestClassLibrary\obj\Debug\TestClassLibrary.pdb

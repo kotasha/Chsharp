@@ -1,0 +1,9 @@
+D:\Personal\SelfPractice\WCFHost\WCFHost\bin\Debug\WCFHost.exe
+D:\Personal\SelfPractice\WCFHost\WCFHost\bin\Debug\WCFHost.pdb
+D:\Personal\SelfPractice\WCFHost\WCFHost\bin\Debug\CalcInterest.dll
+D:\Personal\SelfPractice\WCFHost\WCFHost\bin\Debug\CalcInterest.pdb
+D:\Personal\SelfPractice\WCFHost\WCFHost\obj\x86\Debug\WCFHost.Form1.resources
+D:\Personal\SelfPractice\WCFHost\WCFHost\obj\x86\Debug\WCFHost.Properties.Resources.resources
+D:\Personal\SelfPractice\WCFHost\WCFHost\obj\x86\Debug\WCFHost.csproj.GenerateResource.Cache
+D:\Personal\SelfPractice\WCFHost\WCFHost\obj\x86\Debug\WCFHost.exe
+D:\Personal\SelfPractice\WCFHost\WCFHost\obj\x86\Debug\WCFHost.pdb
