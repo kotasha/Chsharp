@@ -1,0 +1,10 @@
+c:\wapp\wapp\bin\Debug\wapp.exe.config
+c:\wapp\wapp\bin\Debug\wapp.exe
+c:\wapp\wapp\bin\Debug\wapp.pdb
+c:\wapp\wapp\obj\Debug\wapp.Form1.resources
+c:\wapp\wapp\obj\Debug\wapp.Properties.Resources.resources
+c:\wapp\wapp\obj\Debug\wapp.csproj.GenerateResource.cache
+c:\wapp\wapp\obj\Debug\wapp.csproj.CoreCompileInputs.cache
+c:\wapp\wapp\obj\Debug\wapp.exe
+c:\wapp\wapp\obj\Debug\wapp.pdb
+c:\wapp\wapp\obj\Debug\wapp.csprojResolveAssemblyReference.cache
